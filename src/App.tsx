@@ -66,7 +66,7 @@ function App() {
       const response = await fetch('https://api.vectorshift.ai/api/chatbots/run', {
         method: 'POST',
         headers: {
-          'Api-Key': 'sk_1OnmhoODYj7vUUgn9ZPul35ro2USymbqqC9uFCZHRocqpARP',
+          'Api-Key': 'sk_1O',
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
