@@ -71,7 +71,7 @@ function App() {
         },
         body: JSON.stringify({
           input: userMessage.text,
-          chatbot_name: 'sto',
+          chatbot_name: 'grs',
           username: 'alexsey',
           conversation_id: null,
         }),
